@@ -25,41 +25,43 @@
                 "about us",
                 "profile"
             ],
+            "price": null,
+            "stock": null,
+            "clickCounter": null,
+            "socmedAccounts": [],
+            "location": [
+                {
+                    "address": null,
+                    "city": null,
+                    "province": null,
+                    "phone": null,
+                    "email": null,
+                    "postCode": null,
+                    "imgUrl": null,
+                    "coordinate": null
+                }
+            ],
             "Vadd1": [
                 {
-                    "add0": "Inovation"
-                },{
-                    "add0": "Customers journey"
-                },{
-                    "add0": "Mobile first"
-                },{
-                    "add0": "Agile"
-                },{
-                    "add0": "Find the pain point"
-                },{
-                    "add0": "useful & used"
+                    "add0": "Inovation",
+                    "add1": null,
+                    "add2": null,
+                    "add3": null
                 }
             ],
             "Vadd2": [
                 {
-                    "add0": "Year in business",
-                    "add1": "10+",
-                    "add2": "icon-1.png",
+                    "add0": null,
+                    "add1": null,
+                    "add2": null,
                     "add3": null
-                },{
-                    "add0": "Successfull Cases",
-                    "add1": "8+",
-                    "add2": "icon-2.png",
-                    "add3": null
-                },{
-                    "add0": "Satisfied Clients",
-                    "add1": "10+",
-                    "add2": "icon-3.png",
-                    "add3": null
-                },{
-                    "add0": "Pro Consultants",
-                    "add1": "12+",
-                    "add2": "icon-4.png",
+                }
+            ],
+            "Vadd3": [
+                {
+                    "add0": null,
+                    "add1": null,
+                    "add2": null,
                     "add3": null
                 }
             ]
