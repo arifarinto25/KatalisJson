@@ -1,0 +1,41 @@
+{
+    "_id": "5cec1ba3ed10832e30b2bd63",
+    "_class": "com.journaldev.bootifulmongodb.model.Content",
+    "company": "5ce787c76dbfaa0ae475bdb6",
+    "menu": "our_expertise",
+    "displayText": "OUR EXPERTISE",
+    "displayNumber": 2,
+    "enabled": true,
+    "value": [
+        {
+            "idValue": "5cec27fced10832ba846b0e9",
+            "creationDate": 1558980604243,
+            "creatorId": null,
+            "enabled": true,
+            "title": "ANGULAR",
+            "subtitle": "Angular",
+            "desc": "",
+            "imgs": [
+                "angular.png"
+            ],
+            "tags": [
+                "front end"
+            ]
+        },
+        {
+            "idValue": "5cec27fced10832ba846b0e9",
+            "creationDate": 1558980604243,
+            "creatorId": null,
+            "enabled": true,
+            "title": "GOOGLE CLOUD",
+            "subtitle": "Google Cloud",
+            "desc": "",
+            "imgs": [
+                "google-cloud.png"
+            ],
+            "tags": [
+                "tech"
+            ]
+        }
+    ]
+}

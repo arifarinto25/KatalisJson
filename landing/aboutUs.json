@@ -1,0 +1,64 @@
+{
+    "_id": "5cec1ba3ed10832e30b2bd63",
+    "_class": "com.journaldev.bootifulmongodb.model.Content",
+    "company": "5ce787c76dbfaa0ae475bdb6",
+    "menu": "about_us",
+    "displayText": "ABOUT US",
+    "displayNumber": 1,
+    "enabled": true,
+    "value": [
+        {
+            "idValue": "5cec27fced10832ba846b0e9",
+            "creationDate": 1558980604243,
+            "creatorId": null,
+            "enabled": true,
+            "idSpecific": null,
+            "title": "WHO WE ARE",
+            "subtitle": null,
+            "desc": "PT Solusi Untuk Negeri is an Enterprise software solution. Our mission is to strengthen client's IT System, automate their business processes, and allowing them to innovate through technology. SUN Founded in 2018 by Arif Arinto, Yudi Kurniawan, Masdar Zulfikar, Tinton Ardian Putro, and Kevin Chandra. We have various experiences in Software Development and Business Optimization. Now, we colaborate to give contribution for your Business Process with our IT solution. The transition of Information Technology (IT) has a rapid progress to change the behavior and culture of the community in getting services, transacting and socializing. Many companies are late in responding to the era of the digital revolution, especially in adjusting business processes & interaction with customers The community becomes more selective in choosing quality and innovative products, as well as the desire to get fast and precise services. Some things that must be considered to prepare the digital revolution era :",
+            "imgs": [
+                "about-us-1.png",
+                "about-us-2.png",
+                "about-us-3.png"
+            ],
+            "tags": [
+                "about us",
+                "profile"
+            ],
+            "Vadd1": [
+                {
+                    "add0": "Inovation"
+                },{
+                    "add0": "Customers journey"
+                },{
+                    "add0": "Mobile first"
+                },{
+                    "add0": "Agile"
+                }
+            ],
+            "Vadd2": [
+                {
+                    "add0": "Year in business",
+                    "add1": "10+",
+                    "add2": "icon-1.png",
+                    "add3": null
+                },{
+                    "add0": "Successfull Cases",
+                    "add1": "8+",
+                    "add2": "icon-2.png",
+                    "add3": null
+                },{
+                    "add0": "Satisfied Clients",
+                    "add1": "10+",
+                    "add2": "icon-3.png",
+                    "add3": null
+                },{
+                    "add0": "Pro Consultants",
+                    "add1": "12+",
+                    "add2": "icon-4.png",
+                    "add3": null
+                }
+            ]
+        }
+    ]
+}
