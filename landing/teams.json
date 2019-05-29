@@ -2,8 +2,8 @@
   "_id": "5cec1ba3ed10832e30b2bd63",
   "_class": "com.journaldev.bootifulmongodb.model.Content",
   "company": "5ce787c76dbfaa0ae475bdb6",
-  "menu": "product",
-  "displayText": "PRODUCT",
+  "menu": "team",
+  "displayText": "TEAM",
   "displayNumber": 1,
   "enabled": true,
   "value": [{
@@ -12,22 +12,25 @@
     "creatorId": null,
     "enabled": true,
     "idSpecific": null,
-    "title": "OUR PRODUCT",
+    "title": "MEET OUR PROFESSIONALS",
     "subtitle": null,
     "desc": null,
     "imgs": [
-      "product-1.png",
-      "product-2.png",
-      "product-3.png"
+      "team-1.png",
+      "team-2.png",
+      "team-3.png",
+      "team-4.png",
+      "team-5.png"
     ],
     "tags": [
-      "product",
+      "Team",
+      "Squad",
       "IT"
     ],
     "price": null,
     "stock": null,
     "clickCounter": null,
-    "socmedAccounts": [],
+    "socmedAccounts": ["Facebook", "Twitter", "Instagram"],
     "location": [{
       "address": null,
       "city": null,
@@ -39,20 +42,20 @@
       "coordinate": null
     }],
     "Vadd1": [{
-      "add0": "Economic",
-      "add1": null,
+      "add0": "Arif Arinto",
+      "add1": "CEO",
       "add2": null,
       "add3": null
     }],
     "Vadd2": [{
-      "add0": "Strategy",
-      "add1": null,
+      "add0": "Yudi Kurniawan",
+      "add1": "COO",
       "add2": null,
       "add3": null
     }],
     "Vadd3": [{
-      "add0": "Tech",
-      "add1": null,
+      "add0": "Masdar Zulfikar",
+      "add1": "CTO",
       "add2": null,
       "add3": null
     }]

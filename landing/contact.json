@@ -2,8 +2,8 @@
   "_id": "5cec1ba3ed10832e30b2bd63",
   "_class": "com.journaldev.bootifulmongodb.model.Content",
   "company": "5ce787c76dbfaa0ae475bdb6",
-  "menu": "product",
-  "displayText": "PRODUCT",
+  "menu": "contact",
+  "displayText": "CONTACT",
   "displayNumber": 1,
   "enabled": true,
   "value": [{
@@ -12,16 +12,12 @@
     "creatorId": null,
     "enabled": true,
     "idSpecific": null,
-    "title": "OUR PRODUCT",
+    "title": "Send Us a Message or Call Us",
     "subtitle": null,
     "desc": null,
-    "imgs": [
-      "product-1.png",
-      "product-2.png",
-      "product-3.png"
-    ],
+    "imgs": null,
     "tags": [
-      "product",
+      "CS",
       "IT"
     ],
     "price": null,
@@ -29,29 +25,35 @@
     "clickCounter": null,
     "socmedAccounts": [],
     "location": [{
-      "address": null,
-      "city": null,
-      "province": null,
-      "phone": null,
-      "email": null,
-      "postCode": null,
+      "address": [],
+      "city": [],
+      "province": [],
+      "phone": [],
+      "email": [],
+      "postCode": [],
       "imgUrl": null,
       "coordinate": null
     }],
     "Vadd1": [{
-      "add0": "Economic",
-      "add1": null,
+      "add0": "Send a Message",
+      "add1": "Lorem ipsum dolor sit amet,",
       "add2": null,
       "add3": null
     }],
     "Vadd2": [{
-      "add0": "Strategy",
+      "add0": "Address",
       "add1": null,
       "add2": null,
       "add3": null
     }],
     "Vadd3": [{
-      "add0": "Tech",
+      "add0": "Phone",
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd4": [{
+      "add0": "Email",
       "add1": null,
       "add2": null,
       "add3": null

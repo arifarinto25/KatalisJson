@@ -2,8 +2,8 @@
   "_id": "5cec1ba3ed10832e30b2bd63",
   "_class": "com.journaldev.bootifulmongodb.model.Content",
   "company": "5ce787c76dbfaa0ae475bdb6",
-  "menu": "product",
-  "displayText": "PRODUCT",
+  "menu": "portofolio",
+  "displayText": "PORTOFOLIO",
   "displayNumber": 1,
   "enabled": true,
   "value": [{
@@ -12,16 +12,17 @@
     "creatorId": null,
     "enabled": true,
     "idSpecific": null,
-    "title": "OUR PRODUCT",
+    "title": "Seccessful Project",
     "subtitle": null,
     "desc": null,
     "imgs": [
-      "product-1.png",
-      "product-2.png",
-      "product-3.png"
+      "portofolio-1.png",
+      "portofolio-2.png",
+      "portofolio-3.png"
     ],
     "tags": [
-      "product",
+      "portofolio",
+      "Job Complete",
       "IT"
     ],
     "price": null,
