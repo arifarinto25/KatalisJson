@@ -1,7 +1,7 @@
 {
     "_id": "5cec1ba3ed10832e30b2bd63",
     "_class": "com.journaldev.bootifulmongodb.model.Content",
-    "company": "5ce787c76dbfaa0ae475bdb6",
+    "companyId": "5ce787c76dbfaa0ae475bdb6",
     "menu": "our_expertise",
     "displayText": "OUR EXPERTISE",
     "displayNumber": 2,

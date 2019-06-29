@@ -1,7 +1,7 @@
 {
     "_id": "5cec1ba3ed10832e30b2bd63",
     "_class": "com.journaldev.bootifulmongodb.model.Content",
-    "company": "5ce787c76dbfaa0ae475bdb6",
+    "companyId": "5ce787c76dbfaa0ae475bdb6",
     "menu": "about_us",
     "displayText": "ABOUT US",
     "displayNumber": 1,
@@ -25,7 +25,7 @@
                 "about us",
                 "profile"
             ],
-            "Vadd1": [
+            "vadd1": [
                 {
                     "add0": "Inovation"
                 },{
@@ -40,7 +40,7 @@
                     "add0": "useful & used"
                 }
             ],
-            "Vadd2": [
+            "vadd2": [
                 {
                     "add0": "Year in business",
                     "add1": "10+",

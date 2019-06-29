@@ -1,9 +1,9 @@
 {
     "_id": "5cec1ba3ed10832e30b2bd63",
     "_class": "com.journaldev.bootifulmongodb.model.Content",
-    "company": "5ce787c76dbfaa0ae475bdb6",
-    "menu": "about_us",
-    "displayText": "ABOUT US",
+    "companyId": "5ce787c76dbfaa0ae475bdb6",
+    "menu": "product",
+    "displayText": "PRODUCT",
     "displayNumber": 1,
     "enabled": true,
     "value": [
@@ -41,7 +41,7 @@
                     "coordinate": null
                 }
             ],
-            "Vadd1": [
+            "vadd1": [
                 {
                     "add0": "Inovation",
                     "add1": null,
@@ -49,7 +49,7 @@
                     "add3": null
                 }
             ],
-            "Vadd2": [
+            "vadd2": [
                 {
                     "add0": null,
                     "add1": null,
@@ -57,7 +57,7 @@
                     "add3": null
                 }
             ],
-            "Vadd3": [
+            "vadd3": [
                 {
                     "add0": null,
                     "add1": null,

@@ -1,0 +1,79 @@
+[
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "about_us",
+        "displayText": "ABOUT US",
+        "displayNumber": 1,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "our_expertise",
+        "displayText": "OUR EXPERTISE",
+        "displayNumber": 2,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "product",
+        "displayText": "PRODUCT",
+        "displayNumber": 3,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "service",
+        "displayText": "SERVICE",
+        "displayNumber": 4,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "contact_us",
+        "displayText": "CONTACT US",
+        "displayNumber": 5,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "team",
+        "displayText": "TEAM",
+        "displayNumber": 6,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "gallery",
+        "displayText": "GALLERY",
+        "displayNumber": 7,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "room",
+        "displayText": "ROOM",
+        "displayNumber": 8,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "portfolio",
+        "displayText": "PORTFOLIO",
+        "displayNumber": 9,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "news",
+        "displayText": "NEWS",
+        "displayNumber": 7,
+        "enabled": true
+    },
+    {
+        "companyId": "5ce787c76dbfaa0ae475bdb6",
+        "menu": "promotion",
+        "displayText": "PROMOTION",
+        "displayNumber": 11,
+        "enabled": true
+    }
+]
