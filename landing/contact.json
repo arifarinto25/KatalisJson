@@ -1,0 +1,62 @@
+{
+  "_id": "5cec1ba3ed10832e30b2bd63",
+  "_class": "com.journaldev.bootifulmongodb.model.Content",
+  "company": "5ce787c76dbfaa0ae475bdb6",
+  "menu": "contact",
+  "displayText": "CONTACT",
+  "displayNumber": 7,
+  "enabled": true,
+  "value": [{
+    "idValue": "5cec27fced10832ba846b0e9",
+    "creationDate": 1558980604243,
+    "creatorId": null,
+    "enabled": true,
+    "idSpecific": null,
+    "title": "Send Us a Message or Call Us",
+    "subtitle": null,
+    "desc": null,
+    "imgs": null,
+    "tags": [
+      "CS",
+      "IT"
+    ],
+    "price": null,
+    "stock": null,
+    "clickCounter": null,
+    "socmedAccounts": [],
+    "location": [{
+      "address": [],
+      "city": [],
+      "province": [],
+      "phone": [],
+      "email": [],
+      "postCode": [],
+      "imgUrl": null,
+      "coordinate": null
+    }],
+    "Vadd1": [{
+      "add0": "Send a Message",
+      "add1": "Lorem ipsum dolor sit amet,",
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd2": [{
+      "add0": "Address",
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd3": [{
+      "add0": "Phone",
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd4": [{
+      "add0": "Email",
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }]
+  }]
+}

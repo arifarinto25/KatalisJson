@@ -1,0 +1,81 @@
+{
+  "_id": "5cec1ba3ed10832e30b2bd63",
+  "_class": "com.journaldev.bootifulmongodb.model.Content",
+  "company": "5ce787c76dbfaa0ae475bdb6",
+  "menu": "promotion",
+  "displayText": "PROMOTION",
+  "displayNumber": 10,
+  "enabled": true,
+  "value": [{
+    "idValue": "5cec27fced10832ba846b0e9",
+    "creationDate": 1558980604243,
+    "creatorId": null,
+    "enabled": true,
+    "idSpecific": null,
+    "title": "OUR DEALS",
+    "subtitle": null,
+    "desc": null,
+    "imgs": [
+      "promo-1.png",
+      "promo-2.png",
+      "promo-3.png",
+      "promo-4.png",
+      "promo-5.png",
+      "promo-6.png"
+    ],
+    "tags": [
+      "Promotion",
+      "Deal"
+    ],
+    "price": null,
+    "stock": null,
+    "clickCounter": null,
+    "socmedAccounts": [],
+    "location": [{
+      "address": null,
+      "city": null,
+      "province": null,
+      "phone": null,
+      "email": null,
+      "postCode": null,
+      "imgUrl": null,
+      "coordinate": null
+    }],
+    "Vadd1": [{
+      "add0": "Corporate Finance",
+      "add1": "Lorem ipsum dolor sit amet",
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd2": [{
+      "add0": "Corporate Restructuring",
+      "add1": "Lorem ipsum dolor sit amet",
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd3": [{
+      "add0": "Economic Consulting",
+      "add1": "Lorem ipsum dolor sit amet",
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd4": [{
+      "add0": "Litigation Consulting",
+      "add1": "Lorem ipsum dolor sit amet",
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd5": [{
+      "add0": "Strategic Consulting",
+      "add1": "Lorem ipsum dolor sit amet",
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd6": [{
+      "add0": "Tech Consulting",
+      "add1": "Lorem ipsum dolor sit amet",
+      "add2": null,
+      "add3": null
+    }]
+  }]
+}

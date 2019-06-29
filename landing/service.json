@@ -1,0 +1,60 @@
+{
+  "_id": "5cec1ba3ed10832e30b2bd63",
+  "_class": "com.journaldev.bootifulmongodb.model.Content",
+  "company": "5ce787c76dbfaa0ae475bdb6",
+  "menu": "service",
+  "displayText": "SERVICE",
+  "displayNumber": 4,
+  "enabled": true,
+  "value": [{
+    "idValue": "5cec27fced10832ba846b0e9",
+    "creationDate": 1558980604243,
+    "creatorId": null,
+    "enabled": true,
+    "idSpecific": null,
+    "title": "OUR SERVICE",
+    "subtitle": null,
+    "desc": null,
+    "imgs": [
+      "service-1.png",
+      "service-2.png",
+      "service-3.png"
+    ],
+    "tags": [
+      "service",
+      "IT"
+    ],
+    "price": null,
+    "stock": null,
+    "clickCounter": null,
+    "socmedAccounts": [],
+    "location": [{
+      "address": null,
+      "city": null,
+      "province": null,
+      "phone": null,
+      "email": null,
+      "postCode": null,
+      "imgUrl": null,
+      "coordinate": null
+    }],
+    "Vadd1": [{
+      "add0": null,
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd2": [{
+      "add0": null,
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }],
+    "Vadd3": [{
+      "add0": null,
+      "add1": null,
+      "add2": null,
+      "add3": null
+    }]
+  }]
+}
